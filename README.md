@@ -1,13 +1,24 @@
 <div align="center">
-    <h1>Análise Exploratória de Dados da PRF</h1>
-    <p>Análise dos dados de infrações e acidentes da Polícia Rodoviária Federal de 2018-2025</p>
-    <p>Exercício realizado na disciplina de Estatística Aplicada à Computação - 2026.1</p>
+    <h1>Exercícios de Análise Exploratória de Dados</h1>
+    <p>Exercícios realizados na disciplina de Estatística Aplicada à Computação - 2026.1</p>
 </div>
 
-## Conjunto de dados
+## Análise Exploratória de Dados da PRF
+
+### [AED_PRF.ipynb]()
+Arquivo com a solução do exercício proposto para análise dos dados de acidentes e infrações coletados pela Polícia Rodoviária Federal
+
+#### Conjunto de dados 
 Os datasets e dicionário de dados podem ser acessados através dos [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 
 Para facilitar o acesso os arquivos foram upados no Mega (Download automático no Google Colab via MegaTools)
 - [Pasta Acidentes](https://mega.nz/folder/RqZHyLgS#7sA4uIbpQP_-cif43HpUEQ)
 - [Pasta Infrações](https://mega.nz/folder/NnpHxSaD#zVB4QFDj03QeT_F0BR6tUQ)
 
+## Anotações
+
+### [Anotações_AED.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anota%C3%A7%C3%B5es/Anota%C3%A7%C3%B5es_AED.ipynb)
+Arquivo com anotações pessoais dos capítulos Familiarização com um Conjunto de Dados e Limpeza e Imputação de Dados do curso [Análise Exploratória de Dados em Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) do DataCamp
+
+### [Data_Wrangling.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anota%C3%A7%C3%B5es/Data_Wrangling.ipynb)
+Arquivo com anotações pessoais das sessões 7.2 e 7.3 do capítulo 7 do livro [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/03.03-pragmatic_matters.html#data-wrangling)
