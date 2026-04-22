@@ -5,7 +5,7 @@
 
 ## Análise Exploratória de Dados da PRF
 
-### [AED_PRF.ipynb]()
+### [AED_PRF.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/exercicios/AED_PRF.ipynb)
 Arquivo com a solução do exercício proposto para análise dos dados de acidentes e infrações coletados pela Polícia Rodoviária Federal
 
 #### Conjunto de dados 
@@ -17,8 +17,8 @@ Para facilitar o acesso os arquivos foram upados no Mega (Download automático n
 
 ## Anotações
 
-### [Anotações_AED.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anota%C3%A7%C3%B5es/Anota%C3%A7%C3%B5es_AED.ipynb)
+### [Anotações_AED.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Anota%C3%A7%C3%B5es_AED.ipynb)
 Arquivo com anotações pessoais dos capítulos Familiarização com um Conjunto de Dados e Limpeza e Imputação de Dados do curso [Análise Exploratória de Dados em Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) do DataCamp
 
-### [Data_Wrangling.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anota%C3%A7%C3%B5es/Data_Wrangling.ipynb)
+### [Data_Wrangling.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Data_Wrangling.ipynb)
 Arquivo com anotações pessoais das sessões 7.2 e 7.3 do capítulo 7 do livro [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/03.03-pragmatic_matters.html#data-wrangling)
