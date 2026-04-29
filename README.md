@@ -26,7 +26,7 @@ Arquivo com anotações pessoais do capítulo 1 do curso [Introduction to Explor
 ### [Visualização_Dados_Seaborn](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Visualiza%C3%A7%C3%A3o_Dados_Seaborn.ipynb)
 Arquivo com anotações pessoais do curso [Introdução à Visualização de Dados com o Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) do DataCamp
 
-### [Drawing_Grpahs.ipynb]()
+### [Drawing_Grpahs.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Drawing_Graphs.ipynb)
 Arquivo com anotações pessoais do capítulo 6 do livro [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/03.03-pragmatic_matters.html#data-wrangling)
 
 ### [Data_Wrangling.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Data_Wrangling.ipynb)
