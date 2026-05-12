@@ -20,6 +20,10 @@ Para facilitar o acesso os arquivos foram upados no Mega (Download automático n
 ### [Classificação_Distribuição_Variáveis.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/exercicios/Classifica%C3%A7%C3%A3o_Distribui%C3%A7%C3%A3o_Vari%C3%A1veis.ipynb)
 Arquivo com o exercício de classificação e distribuição do dataset de acidentes referentes ao ano de 2018 (agrupado por pessoa) disponível em [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 
+## Distribuições de Frequências e Gráficos
+### [Distribuição_Frequência_Gráficos.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/exercicios/Distribui%C3%A7%C3%A3o_Frequ%C3%AAncia_Gr%C3%A1ficos.ipynb)
+Arquivo com o exercício de distribuição de frequência e geração de gráficos a partir de datasets com notas de alunos, dados imobiliários e questionários aplicados a alunos do ensino médio
+
 ## Anotações
 
 ### [Anotações_AED.ipynb](https://github.com/arthur-dnts/AED-Exercicios/blob/main/anotacoes/Anota%C3%A7%C3%B5es_AED.ipynb)
